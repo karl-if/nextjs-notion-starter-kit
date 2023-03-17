@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lab',
-  domain: 'https://agilecxf.notion.site/b440b05bc6c6462fb0a97dc8f5e966cf?v=3232f0fb908c44879705985effdaedda',
+  domain: 'https://karl-if.notion.site/b440b05bc6c6462fb0a97dc8f5e966cf?v=3232f0fb908c44879705985effdaedda',
   author: 'Karl Chen',
 
   // open graph metadata (optional)
