@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b440b05bc6c6462fb0a97dc8f5e966cf',
+  rootNotionPageId: 'c74df50bc16845b0b4d27d770712ea11',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lab',
-  domain: 'https://karl-if.notion.site/b440b05bc6c6462fb0a97dc8f5e966cf?v=3232f0fb908c44879705985effdaedda',
+  domain: 'https://karl-if.notion.site/Karl-Chen-c74df50bc16845b0b4d27d770712ea11',
   author: 'Karl Chen',
 
   // open graph metadata (optional)
@@ -46,7 +46,7 @@ export default siteConfig({
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: 'b440b05bc6c6462fb0a97dc8f5e966cf',
+  pageUrlOverrides: 'c74df50bc16845b0b4d27d770712ea11',
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
