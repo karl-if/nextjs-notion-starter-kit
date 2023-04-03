@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Karl Chen',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: null,
 
   // social usernames (optional)
   twitter: '',
