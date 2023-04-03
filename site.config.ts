@@ -67,7 +67,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Home',
-      pageId: 'Karl-Chen-279868994b9a4502963023d742ef41c3'
+      pageId: '279868994b9a4502963023d742ef41c3'
     }
   ]
 })
