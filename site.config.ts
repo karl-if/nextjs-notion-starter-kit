@@ -64,4 +64,10 @@ export default siteConfig({
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
+  navigationLinks: [
+    {
+      title: 'Home',
+      pageId: 'Karl-Chen-279868994b9a4502963023d742ef41c3'
+    }
+  ]
 })
